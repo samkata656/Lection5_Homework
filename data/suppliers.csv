@@ -1,0 +1,13 @@
+supplier_id,company_name,contact_person,contact_person_latin,email,content
+SUP-001,ТехноКомпонент ООД,Филип Петров,Filip Petrov,filip.petrov@example.com,Доставчик ТехноКомпонент ООД (TehnoKomponent Ltd). Лице за контакт: Филип Петров (Filip Petrov). Имейл: filip.petrov@example.com.
+SUP-002,МемориЛайн ЕООД,Филип Георгиев,Filip Georgiev,filip.georgiev@example.com,Доставчик МемориЛайн ЕООД (MemoryLine Ltd). Лице за контакт: Филип Георгиев (Filip Georgiev). Имейл: filip.georgiev@example.com.
+SUP-003,ПауърСел АД,Мария Иванова,Maria Ivanova,maria.ivanova@example.com,Доставчик ПауърСел АД (PowerCell JSC). Лице за контакт: Мария Иванова (Maria Ivanova). Имейл: maria.ivanova@example.com.
+SUP-004,КейсМастър ООД,Георги Стоянов,Georgi Stoyanov,georgi.stoyanov@example.com,Доставчик КейсМастър ООД (CaseMaster Ltd). Лице за контакт: Георги Стоянов (Georgi Stoyanov). Имейл: georgi.stoyanov@example.com.
+SUP-005,ПериферияБГ ЕООД,Елена Николова,Elena Nikolova,elena.nikolova@example.com,Доставчик ПериферияБГ ЕООД (PeriferiyaBG Ltd). Лице за контакт: Елена Николова (Elena Nikolova). Имейл: elena.nikolova@example.com.
+SUP-006,ДисплейПро ООД,Иван Тодоров,Ivan Todorov,ivan.todorov@example.com,Доставчик ДисплейПро ООД (DisplayPro Ltd). Лице за контакт: Иван Тодоров (Ivan Todorov). Имейл: ivan.todorov@example.com.
+SUP-007,НетЛинк Солюшънс ЕООД,Петя Ангелова,Petya Angelova,petya.angelova@example.com,Доставчик НетЛинк Солюшънс ЕООД (NetLink Solutions Ltd). Лице за контакт: Петя Ангелова (Petya Angelova). Имейл: petya.angelova@example.com.
+SUP-008,КабелТрейд ООД,Николай Василев,Nikolay Vasilev,nikolay.vasilev@example.com,Доставчик КабелТрейд ООД (KabelTrade Ltd). Лице за контакт: Николай Василев (Nikolay Vasilev). Имейл: nikolay.vasilev@example.com.
+SUP-009,ОфисПлюс АД,Мария Костова,Maria Kostova,maria.kostova@example.com,Доставчик ОфисПлюс АД (OfficePlus JSC). Лице за контакт: Мария Костова (Maria Kostova). Имейл: maria.kostova@example.com.
+SUP-010,ЛаптопЦентър ЕООД,Стефан Илиев,Stefan Iliev,stefan.iliev@example.com,Доставчик ЛаптопЦентър ЕООД (LaptopCenter Ltd). Лице за контакт: Стефан Илиев (Stefan Iliev). Имейл: stefan.iliev@example.com.
+SUP-011,ТехноКомпонент Плюс ООД,Калина Атанасова,Kalina Atanasova,kalina.atanasova@example.com,Доставчик ТехноКомпонент Плюс ООД (TehnoKomponent Plus Ltd). Лице за контакт: Калина Атанасова (Kalina Atanasova). Имейл: kalina.atanasova@example.com.
+SUP-012,ПринтСервиз ООД,Христо Маринов,Hristo Marinov,hristo.marinov@example.com,Доставчик ПринтСервиз ООД (PrintServiz Ltd). Лице за контакт: Христо Маринов (Hristo Marinov). Имейл: hristo.marinov@example.com.
